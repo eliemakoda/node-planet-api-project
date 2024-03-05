@@ -1,0 +1,19 @@
+{
+  "name": "emakotech",
+  "version": "1.0.0",
+  "description": "for education purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "emako"
+  ],
+  "author": "elie makoda kowo",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5",
+    "nodemon": "^3.1.0"
+  }
+}
